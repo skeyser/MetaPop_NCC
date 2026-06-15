@@ -3,10 +3,10 @@ Code and data repository for paper titled "Warming winters threaten the rewildin
 
 ## Authors
 Spencer R. Keyser<sup>1,2,3</sup> (corresponding author and repo owner)
-Matthew M. Smith
-Michael Notaro
-Benjamin Zuckerberg
-Jonathan N. Pauli
+Matthew M. Smith<sup>4</sup>
+Michael Notaro<sup>5</sup>
+Benjamin Zuckerberg<sup>3</sup>
+Jonathan N. Pauli<sup>3</sup>
 
 ## Corresponding author contact
 Spencer R. Keyser 
