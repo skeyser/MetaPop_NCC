@@ -2,7 +2,7 @@
 Code and data repository for paper titled "Warming winters threaten the rewilding and recovery of North America’s most translocated carnivore".
 
 ## Authors
-Spencer R. Keyser^(1,2,3) (corresponding author and repo owner)
+Spencer R. Keyser<sup>1,2,3</sup> (corresponding author and repo owner)
 Matthew M. Smith
 Michael Notaro
 Benjamin Zuckerberg
